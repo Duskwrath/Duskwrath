@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   <a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png?20140729165929" alt="Odoo" width="40" height="40"/> </a>
   <a href="https://www.odoo.sh/" target="_blank" rel="noreferrer"> <img src="https://www.odoo.sh/paas_website/static/src/img/odoo_sh_logo.svg" alt="Odoo.sh" width="40" height="40"/> </a>
   <a href="https://odoo.github.io/owl/" target="_blank" rel="noreferrer"> <img src="https://odoo.github.io/owl/assets/owl_1f989.png" alt="OWL" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
 
 </p>
