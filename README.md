@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as Software Developer.
-- 🌱 I’m currently learning **Kotlin, Odoo, FastAPI.
+- 🌱 I’m currently learning **Kotlin, Odoo, FastAPI**.
 - 💬 Ask me about ...
 - 📫 How to reach me: **sawlwinoodev@gmail.com**
 
