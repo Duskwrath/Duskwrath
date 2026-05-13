@@ -29,16 +29,14 @@ I'm a passionate developer exploring a variety of technologies and building cool
 </p>
 
 ## 📂 Featured Repository
-
+-
 
 
 ## ✨ GitHub Stats
 
-![Duskwrath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duskwrath&show_icons=true&theme=default)
+-
 
 ## ⚡ Fun Fact
-
-(Add a fun fact or something unique about yourself!)
 
 ---
 
