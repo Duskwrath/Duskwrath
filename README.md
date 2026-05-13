@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🌟 About Me
 
-I'm a passionate developer exploring a variety of technologies and building cool projects. My repository [Duskwrath/Duskwrath](https://github.com/Duskwrath/Duskwrath) showcases my journey and the skills I continue to develop.
+I'm a passionate developer exploring a variety of technologies and building cool projects.
 
 - 🔭 Currently working on: innovative projects and learning new technologies
 - 🌱 Always learning: new programming languages and frameworks
