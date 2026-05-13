@@ -13,10 +13,6 @@ I'm a passionate developer exploring a variety of technologies and building cool
 
 ## 💻 Languages & Tools
 
-- Programming Languages:  
-  ![Your top languages badges can go here](https://github-readme-stats.vercel.app/api/top-langs/?username=Duskwrath&layout=compact)
-
-- Tools & Frameworks:  
   <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
@@ -34,8 +30,7 @@ I'm a passionate developer exploring a variety of technologies and building cool
 
 ## 📂 Featured Repository
 
-[**Duskwrath/Duskwrath**](https://github.com/Duskwrath/Duskwrath)  
-Check out my main repository which contains (describe your repo in a sentence or two, e.g., scripts, configurations, or anything unique you have here).
+
 
 ## ✨ GitHub Stats
 
